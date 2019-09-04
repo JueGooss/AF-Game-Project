@@ -1,0 +1,39 @@
+#headerGame{
+  
+}
+
+#ScoreboardDisplay{
+
+}
+
+#footballField {
+  background-image: url(./pictures-Game/1280px-AmFBfield.svg.png);
+  background-position: center;
+  width: 1200px;
+  height: 550px;
+  position: relative;
+  }
+
+#myTeamHuskies{
+  background-image: url(./pictures-Game/Huskies.png);
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  position: absolute;
+  top: 225px;
+  left:400px;
+  border-radius: 50px;
+  border: 2px solid black;
+}
+
+#opponentTeamIrish{
+  background-image: url(./pictures-Game/Irish.png);
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  position: absolute;
+  top:225px;
+  right:400px;
+  border-radius: 50px;
+  border: 2px solid black;
+}
